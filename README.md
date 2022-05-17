@@ -115,5 +115,5 @@ help error:
 ./hsh: 4: help: no help topics match 'hola'. Try 'help help' or 'man -k 'hola' or info 'hola'
 #cisfun$
 # Authors
-Pelumi Olawole <github.com/pelumiolawole/>
- Adanna Anachu <github.com/alexditah/>
+Pelumi Olawole github.com/pelumiolawole/
+ Adanna Anachu github.com/alexditah/
