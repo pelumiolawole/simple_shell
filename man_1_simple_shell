@@ -105,12 +105,12 @@ Delimit commands are characters which will be used to split the string; Comment 
 .TP
 \fIparsing.c\fR - functions that create an array of pointers depending of the delimit characters
 .TP
-\fIshell.h\fR - header file with all thr function prototypes.
+\fIshell.h\fR - header file with all thr function prototypes
 .TP
-\fIstartshell.c\fR - main function that stars the shell (shell skeleton).
+\fIstartshell.c\fR - main function that stars the shell (shell skeleton)
 
 .SH SEE ALSO
-chdir (2), close (2), execve (2), exit (3), fflush (3), fork (2), free (3), getcwd (3), getline (3), malloc (3), open (2), read (2), stat (2), signal (2), strtok (3), wait (2), waitpid (2), write (2)
+chdir (2), close (2), execve (2), exit (3), fflush (3), fork (2), free (3), getcwd (3), getline (3), malloc (3), open (2), read (2), stat (2), signal (2), strtok (3), wait (2), waitpid (2), write (2).
 
 .SH BUGS
 Not yet
